@@ -3,7 +3,7 @@ title: Avatar Items
 description: Sell community created Avatar items exclusively through your experience.
 ---
 
-**Avatar items** are 3D assets, such as accessories and clothing, that Roblox avatars can equip and wear. While many avatar items are sold on the Roblox's Marketplace, you can work with item creators to sell avatar items exclusively in your experience.
+**Avatar items** are 3D assets, such as accessories and clothing, that Roblox avatars can equip and wear While many avatar items are sold on the Roblox's Marketplace, you can work with item creators to sell avatar items exclusively in your experience.
 
 By selling unique avatar items in your experience, you can create experience-specific cosmetics while still taking advantage of Roblox's [commission payouts](../../marketplace/marketplace-fees-and-commissions.md#commissions) for avatar assets sold within an experience.
 
